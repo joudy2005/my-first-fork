@@ -5,4 +5,4 @@ Stanley
 Meta Database Engineer
 
 joudy
-learner 
+learn frontend dev
