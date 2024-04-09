@@ -1,8 +1,3 @@
-Elias
-Meta Database Engineer
+joudy 
+learner
 
-Stanley
-Meta Database Engineer
-
-joudy
-learn frontend dev
